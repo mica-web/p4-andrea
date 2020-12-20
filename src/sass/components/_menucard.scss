@@ -1,0 +1,27 @@
+img {
+    height: 250px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.menulist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.card {
+    border-radius: 0 0 6px 6px;
+    border-top: 3px solid $color-green;
+    margin: 10px;
+    overflow: hidden;
+    transition: $transition-default;
+
+}
