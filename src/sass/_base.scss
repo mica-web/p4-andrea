@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Sofia Pro", sans-serif;
+  margin: 0;
+  color: $color-white;
+}
+
+section {
+  display: block;
+}
+
+.button {
+  color: $color-darkgreen;
+  background-color: $color-green;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: darken($color-green, 10%);
+    color: $color-white;
+    transition: $transition-default;
+  }
+
+}
+
+.mainhome-bg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2Fmainmenu-plate.jpg?v=1607579841155");
+  background-position: center center;
+  height: 625px;
+}

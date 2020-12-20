@@ -1,0 +1,117 @@
+{
+    "entrees": [{
+            "name": "ChickPea Burger",
+            "nutrition": " Gluten Free, Sugar Free",
+            "description": "Homemade burger with chickpeas, herbs and seasonings. ",
+            "price": " $ 9.99 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Kush BBQ Ribs",
+            "nutrition": " Gluten Free. Allergens: Soy",
+            "description": "Delicious BBQ Ribs smothered in BBQ Sauce",
+            "price": " $ 8.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Curry Chickun",
+            "nutrition": " Gluten Free. Allergens: Soy",
+            "description": "Our famous is-not-chicken breast smothered in a mild curry sauce",
+            "price": " $ 8.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Lentil Patties",
+            "nutrition": " Gluten Free.",
+            "description": "Two delicious homemade patties with the house secret brown gravy on top",
+            "price": " $ 8.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Chickun Salad",
+            "nutrition": " Gluten Free. Allergens: Soy. ",
+            "description": "A bed mix of fresh and crispy veteables with our famous Chikun on top",
+            "price": " $ 8.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Vegan Crab Cakes",
+            "nutrition": " Gluten Free. Allergens: Soy. ",
+            "description": "The Vegan secret of Maryland. Old bay seasoned vegetable protein. Choice of sauces: Tartar, BBQ, Hot Honey Mustard, Mustard.",
+            "price": " $ 8.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        }
+    ],
+    "sides": [{
+            "name": "Jollof Rice",
+            "nutrition": " Gluten Free",
+            "description": "Seasoned Brown Rice with Black Beans",
+            "price": " $ 4.99 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Candied Yams",
+            "nutrition": " Gluten Free",
+            "description": "Sweetened Sweet Potatoes",
+            "price": " $ 4.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Collard greens",
+            "nutrition": " Gluten Free",
+            "description": "Smoked Greens. Simple but Tasty",
+            "price": " $ 8.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Baked Mac & Cheese",
+            "nutrition": "Allergens: Soy",
+            "description": "Wheat Elbow noodles with homemade vegan cheese.",
+            "price": " $ 8.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        }
+    ],
+    "drinks": [{
+            "name": "Big Energy Drink",
+            "nutrition": " Sugar Free",
+            "description": "The best option to stay energized! Smoothie of Apple, Cucumber Spinach, Avocado and Ginger Drink",
+            "price": " $ 7.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Piña Colada's Dream",
+            "nutrition": " Sugar Free",
+            "description": "Summer dream flavored. Pinneaple, banana, mango and coconut milk",
+            "price": " $ 6.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Akoma",
+            "nutrition": " Sugar Free",
+            "description": "Customer's favorite strawberry banana Smoothie. ",
+            "price": " $ 6.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Lemonade",
+            "nutrition": " Contains Sugar",
+            "description": "Critic favorite to keep you fresh",
+            "price": " $ 2.99 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Homemade Wild Kombucha",
+            "nutrition": " Sugar Free. ",
+            "description": "Fermented Beverage by Mobtown Fermentation",
+            "price": " $ 3.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "nutrition": " Allergens: Soy. ",
+            "description": "Oreo Cookies in a creamy vegan milkshake",
+            "price": " $ 8.49 ",
+            "imgurl": "https://cdn.glitch.com/636f9ec9-ebc2-4b46-9fb9-ed66ca68b62b%2FSMOOTHIE.png?v=1607621346441"
+        }
+    ]
+}

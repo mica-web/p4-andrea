@@ -1,0 +1,36 @@
+.site-nav {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
+    a {
+        text-decoration: none;
+        color: $color-gray;
+
+        &:hover {
+            color: $color-green;
+        }
+    }
+
+    ul {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-left: 0;
+    }
+
+    .button-ordernow {
+        color: $color-green;
+        text-transform: uppercase;
+        background-color: $color-green;
+
+
+        &:hover {
+            color: $color-darkgreen;
+        }
+    }
+
+
+
+}

@@ -1,0 +1,16 @@
+{% for item in links.entrees %}
+<li class="menulist">
+    <div class="container">
+        <a href="#"> <img src="{{ item.imgurl }} "> </a>
+
+        <div class="card">
+            <h2 class="dish-name">{{ item.name }}</h2>
+            <span class="nutritional-facts">{{ item.nutrition }}</span>
+            <p class="food-description">{{ item.description }}</p>
+            <span class="price">price {{ item.price }}</span>
+        </div>
+</li>
+{% endfor %}
+
+<!-- is it necessary two divs to put separate the image and the written content (so its easier using flexbox)-->
+<!-- como se hacen con las imagenes en este caso para ponerles el alternative text???-->
